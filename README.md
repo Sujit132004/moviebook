@@ -112,7 +112,7 @@ Feel free to raise an issue or suggest improvements!
 
 ## 👤 Author
 
-**Sujit Kumar**  
+**Sujit Kokate**  
 [GitHub](https://github.com/sujit132004) | [LinkedIn](https://www.linkedin.com/in/your-link)
 
 ---
