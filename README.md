@@ -91,11 +91,7 @@ App will run on: `http://localhost:5173`
 
 ---
 
-## 📸 Screenshots
 
-(Include some screenshots of UI here if possible)
-
----
 
 ## 📌 Concurrency Handling
 
@@ -104,16 +100,11 @@ App will run on: `http://localhost:5173`
 
 ---
 
-## 📨 Feedback
-
-Feel free to raise an issue or suggest improvements!
-
----
 
 ## 👤 Author
 
 **Sujit Kokate**  
-[GitHub](https://github.com/sujit132004) | [LinkedIn](https://www.linkedin.com/in/your-link)
+
 
 ---
 
